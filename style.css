@@ -1,0 +1,74 @@
+html, body {
+    background-color: rgb(232,232,232);
+    height: 100%;
+    margin: 0;
+}
+
+.wrapper {
+    min-height: 100%;
+    margin-bottom: -50px;
+}
+#masthead {
+    background-color: white; 
+    font-family: 'Comic Neue', cursive;
+    font-weight: bold;
+}
+
+#nav  {
+    color: gray;
+    text-align: center;
+    padding: 15px 0px 0px 0px;
+}
+
+.about, .port, .contact {
+    color: grey;
+    font-size: large;
+    text-align: center;
+}
+
+#logo {
+    background-color: rgb(105, 199, 199);
+    color: white;
+    float: left;
+    padding: 15px 0px 15px 0px;
+    text-align: center;
+    font-size: x-large;
+}
+
+.jumbotron {
+    margin-top: 30px;
+    background-color: white;
+    font-family: 'Comic Neue', cursive;
+    
+    
+}
+
+.display-4 {
+    font-weight: bold;
+    color: rgb(105, 199, 199)
+}
+
+.footer {
+    background-color:  rgb(105, 199, 199);
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-top: grey;
+    border-top-style: solid;
+    border-width: 8px;
+    
+}
+.push {
+    height: 50px; 
+}
+.copyright {
+    padding: 25px;
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+    font-weight: bold;
+    font-size: small;
+}
+
+.auth-image {
+    float: left;
+    margin: 5px;
+}
