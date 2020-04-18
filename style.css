@@ -15,7 +15,7 @@ html, body {
     
 }
 
-    #nav {
+#nav {
     color: gray;
     text-align: center;
     padding-top: 30px ;
@@ -41,9 +41,24 @@ html, body {
     margin-top: 30px;
     background-color: white;
     font-family: 'Comic Neue', cursive;
-    
-    
+    border-radius: 15px; 
 }
+
+.portHeader {
+    padding-top: 30px;
+    font-family: 'Comic Neue', cursive;
+    color: white;
+    text-align: center;
+}
+
+.jumbotronPort {
+    margin-top: 30px;
+    background-color: grey;
+    font-family: 'Comic Neue', cursive;
+    border-radius: 15px;  
+}
+
+
 
 .display-4 {
     font-weight: bold;
@@ -97,3 +112,38 @@ html, body {
 #main-container {
     padding-top: 30px;
 }
+
+
+
+.work {
+    margin: 10px 0px 15px 0px;
+    
+  }
+  
+
+  .work img {
+    width: 100%;
+    border: 0 none;
+    opacity: 0.8;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+  }
+  
+  .work h3 {
+    position: static;
+    bottom: 20px;
+    width: auto;
+    padding: 10px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #ffffff;
+    text-align: center;
+    background:  rgb(105, 199, 199);
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+  }
+  
+ 
+
+  
