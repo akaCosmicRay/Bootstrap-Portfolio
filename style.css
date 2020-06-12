@@ -89,6 +89,7 @@ html, body {
 .auth-image {
     float: left;
     margin: 5px;
+    border-radius: 15px;
 }
 
 .contact_card, .contact_me {
